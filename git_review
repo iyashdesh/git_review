@@ -1,0 +1,19 @@
+Git review questions:
+be able to answer all without any help.
+git website -> "Git Pro" book
+let defn = define,
+explain what Figure 1 in the git_review_appendix is showing
+explain what Figure 2 in the git_review_appendix is showing
+explain a Git project's 3 states and when to use each of them. Draw a diagram
+state the basic or typical Git workflow
+what is git config and what does it contain?
+what is git config cmds used for?
+what does the output of git <verb> --help tell you? e.g. <verb> = config?
+list 2 ways to turn a repo into a git repo and how would you do both of them?
+when would you use git init?
+what is the major difference between git and other version controls?
+every file in the repo is in 1 of 2 states. what are the differences between these two states?
+draw a diagram showing the lifecycle fo the status of your files in the repo
+how to check which state your files in the repo are in?
+what is delta-based version control?
+explain what happened in Figure 3?
